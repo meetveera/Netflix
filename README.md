@@ -6,3 +6,5 @@ Create your own TMDB API key from the below URL to access all the available API'
 
 To start your app the type:
   npm start
+  
+  localhost:/3000
